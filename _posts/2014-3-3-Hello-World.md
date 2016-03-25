@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "You're up and running!"
+title: My First Post
 published: true
 ---
+
 
 
 I'm making a website.
